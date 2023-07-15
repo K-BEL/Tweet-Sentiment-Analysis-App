@@ -1,0 +1,8 @@
+# the config file that has your twitter access information. 
+
+consumer_key = "EfDxTE4CnldCd8nKiHM4D9nq2"
+consumer_secret = "yjJQpI43Uwud4Ffi1LEnfODb9NN8VxDrxqroBYRsWn7fY2AbqB"
+access_token = "1356761794983972916-yezL1QQ4biMbT9NXNCw66GnZswAxXW"
+access_token_secret = "qqt6XAt0K7lktJRzJMRZzsaavdhd8zYOUxLCBbN8TaHvb"
+
+google_api_key = ""
